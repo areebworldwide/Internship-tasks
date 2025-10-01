@@ -1,6 +1,6 @@
 # Simple Rule-Based Chatbot
-# Student Name: [Your Name]
-# Date: October 2025
+# Student Name: [Areeb Akhtar]
+# Date:3 October 2025
 # Description: A basic chatbot that responds to user greetings and simple questions
 
 def chatbot_response(user_message):
